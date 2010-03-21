@@ -1,0 +1,190 @@
+127.0.0.1 - - [21/Mar/2010 14:12:09] "GET / HTTP/1.1" 200 3326 0.1001
+127.0.0.1 - - [21/Mar/2010 14:12:09] "GET / HTTP/1.1" 200 3326 0.1201
+127.0.0.1 - - [21/Mar/2010 14:12:09] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [21/Mar/2010 14:12:09] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0093
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0013
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0039
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0093
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0131
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0050
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0121
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /favicon.ico HTTP/1.1" 200 3494 0.0026
+127.0.0.1 - - [21/Mar/2010 14:12:10] "GET /favicon.ico HTTP/1.1" 200 3494 0.0062
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.1/bin/mercury:19:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.1/bin/mercury:19
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.1/bin/mercury:19:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.1/bin/mercury:19
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET / HTTP/1.1" 200 3510 0.0434
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET / HTTP/1.1" 200 3510 0.0641
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0024
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0065
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0059
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0117
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0011
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0039
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 200 30766 0.0017
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 200 30766 0.0074
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0048
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0074
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0041
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0077
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 200 213511 0.0012
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 200 213511 0.0038
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/coffee-script.js HTTP/1.1" 200 279153 0.0013
+127.0.0.1 - - [21/Mar/2010 18:18:58] "GET /javascripts/coffee-script.js HTTP/1.1" 200 279153 0.0090
+127.0.0.1 - - [21/Mar/2010 18:18:59] "GET /images/bk_gradient.png HTTP/1.1" 200 3443 0.0013
+127.0.0.1 - - [21/Mar/2010 18:18:59] "GET /images/bk_gradient.png HTTP/1.1" 200 3443 0.0040
+127.0.0.1 - - [21/Mar/2010 18:18:59] "GET /favicon.ico HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:18:59] "GET /favicon.ico HTTP/1.1" 304 - 0.0031
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:23:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:23
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:23:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:23
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET / HTTP/1.1" 200 3849 0.0441
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET / HTTP/1.1" 200 3849 0.0678
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0023
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0118
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0036
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0068
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0014
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0051
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 200 30766 0.0012
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 200 30766 0.0043
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0042
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0078
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0066
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0117
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 200 213511 0.0014
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 200 213511 0.0052
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/coffee-script.js HTTP/1.1" 200 279153 0.0014
+127.0.0.1 - - [21/Mar/2010 18:27:10] "GET /javascripts/coffee-script.js HTTP/1.1" 200 279153 0.0042
+127.0.0.1 - - [21/Mar/2010 18:27:11] "GET /images/bk_gradient.png HTTP/1.1" 200 3443 0.0013
+127.0.0.1 - - [21/Mar/2010 18:27:11] "GET /images/bk_gradient.png HTTP/1.1" 200 3443 0.0041
+127.0.0.1 - - [21/Mar/2010 18:27:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0013
+127.0.0.1 - - [21/Mar/2010 18:27:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0044
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET / HTTP/1.1" 200 3398 0.1144
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET / HTTP/1.1" 200 3398 0.1365
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0046
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0074
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 110 0.0022
+127.0.0.1 - - [21/Mar/2010 18:27:53] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 110 0.0048
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /launch HTTP/1.1" 200 3390 0.0409
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /launch HTTP/1.1" 200 3390 0.0611
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0056
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0044
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [21/Mar/2010 18:45:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0045
+127.0.0.1 - - [21/Mar/2010 18:45:55] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:45:55] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0031
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
