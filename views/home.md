@@ -1,4 +1,4 @@
-Mercury is a gem that makes it simple to work with haml, sass, jquery, coffee-script and other tools and technologies without the hassle.
+Play with haml, sass, jquery, and coffee-script with ease...
 
 ## Installation
 
