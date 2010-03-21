@@ -19,3 +19,11 @@ $ cd project_awesome
 $ mercury
 </code></pre>
 
+----
+
+## Contact Us
+
+Tweet us at [@jackhq](http://twitter.com/jackhq)
+
+
+

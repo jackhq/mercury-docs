@@ -188,3 +188,127 @@
 	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
 	from /usr/local/bin/mercury:19:in `load'
 	from /usr/local/bin/mercury:19
+127.0.0.1 - - [21/Mar/2010 18:48:56] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 200 111 0.0015
+127.0.0.1 - - [21/Mar/2010 18:48:56] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 200 111 0.0212
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 105 0.0015
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 105 0.0052
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET / HTTP/1.1" 200 3468 0.0450
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET / HTTP/1.1" 200 3468 0.0484
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0050
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0062
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0072
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0048
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:48:57] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET / HTTP/1.1" 200 3575 0.0429
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET / HTTP/1.1" 200 3575 0.0463
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0060
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0047
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /favicon.ico HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:49:49] "GET /favicon.ico HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET / HTTP/1.1" 200 3626 0.0434
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET / HTTP/1.1" 200 3626 0.1128
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0064
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:52:37] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 304 - 0.0041
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /contact HTTP/1.1" 200 3245 0.0425
+127.0.0.1 - - [21/Mar/2010 18:52:39] "GET /contact HTTP/1.1" 200 3245 0.0457
+127.0.0.1 - - [21/Mar/2010 18:52:45] "GET /resources HTTP/1.1" 200 3508 0.0399
+127.0.0.1 - - [21/Mar/2010 18:52:45] "GET /resources HTTP/1.1" 200 3508 0.0422
+127.0.0.1 - - [21/Mar/2010 18:52:50] "GET /launch HTTP/1.1" 200 3464 0.0425
+127.0.0.1 - - [21/Mar/2010 18:52:50] "GET /launch HTTP/1.1" 200 3464 0.0458
+127.0.0.1 - - [21/Mar/2010 18:52:53] "GET /example HTTP/1.1" 200 6555 0.0430
+127.0.0.1 - - [21/Mar/2010 18:52:53] "GET /example HTTP/1.1" 200 6555 0.0465
+127.0.0.1 - - [21/Mar/2010 18:52:55] "GET / HTTP/1.1" 200 3626 0.0436
+127.0.0.1 - - [21/Mar/2010 18:52:55] "GET / HTTP/1.1" 200 3626 0.0476
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET / HTTP/1.1" 200 3626 0.0440
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET / HTTP/1.1" 200 3626 0.0469
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0058
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/smoothness/jquery-ui-1.8rc3.custom.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [21/Mar/2010 18:53:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0041
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0855
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/jquery-ui-1.8rc3.custom.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /favicon.ico HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [21/Mar/2010 18:53:14] "GET /favicon.ico HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [21/Mar/2010 18:53:18] "GET /contact HTTP/1.1" 200 3245 0.0402
+127.0.0.1 - - [21/Mar/2010 18:53:18] "GET /contact HTTP/1.1" 200 3245 0.0432
+127.0.0.1 - - [21/Mar/2010 18:53:25] "GET /resources HTTP/1.1" 200 3508 0.0417
+127.0.0.1 - - [21/Mar/2010 18:53:25] "GET /resources HTTP/1.1" 200 3508 0.0453
+127.0.0.1 - - [21/Mar/2010 18:53:34] "GET /example HTTP/1.1" 200 6555 0.0425
+127.0.0.1 - - [21/Mar/2010 18:53:34] "GET /example HTTP/1.1" 200 6555 0.0464
+127.0.0.1 - - [21/Mar/2010 18:53:35] "GET / HTTP/1.1" 200 3626 0.0444
+127.0.0.1 - - [21/Mar/2010 18:53:35] "GET / HTTP/1.1" 200 3626 0.0476
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.2/bin/mercury:29
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
