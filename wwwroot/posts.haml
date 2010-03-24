@@ -8,9 +8,10 @@
     %h1 Posts
     %ul
       - Dir.glob(File.join(File.dirname(__FILE__), 'posts', '*.md')).each do |d|
+        - article_url = d.match(/#{options.views}\/posts\/(.*).md/)[1]
         - article = d.match(/#{options.views}\/posts\/(.*)-(.*).md/)[2]
         %li
-          %a{:href => '/posts/show?article=' + article}= article.capitalize
+          %a{:href => '/posts/show?article=' + article_url}= article.capitalize
       
   .grid_3
     %h1 Resources
