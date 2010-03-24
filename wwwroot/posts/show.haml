@@ -1,0 +1,13 @@
+= sass :default
+= haml :header
+= haml :navigation
+= coffee :wolfgang
+
+#post-content.container_12  
+  .grid_7.prefix_2
+    = markdown params['article'].to_sym
+        
+  .clear
+  
+     
+= haml :footer

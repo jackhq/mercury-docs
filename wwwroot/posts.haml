@@ -1,0 +1,22 @@
+= sass :default
+= haml :header
+= haml :navigation
+= coffee :wolfgang
+
+#home-content.container_12  
+  .grid_7.prefix_2
+    %h1 Posts
+    %ul
+      - Dir.glob(File.join(File.dirname(__FILE__), 'posts', '*.md')).each do |d|
+        - article = d.match(/#{options.views}\/posts\/(.*)-(.*).md/)[2]
+        %li
+          %a{:href => '/posts/show?article=' + article}= article.capitalize
+      
+  .grid_3
+    %h1 Resources
+    = markdown :resources
+    
+  .clear
+  
+     
+= haml :footer

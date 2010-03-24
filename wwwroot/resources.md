@@ -1,4 +1,3 @@
-## Mercury allows you to easily use the following list of technologies:
 
 * [Haml](http://www.haml-lang.com)
 * [Sass](http://www.sass-lang.com)
