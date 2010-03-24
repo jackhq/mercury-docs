@@ -1,5 +1,5 @@
 source :gemcutter
 
 gem 'thin'
-gem 'mercury'
+gem 'mercury', '0.9.3'
 
