@@ -1,6 +1,6 @@
 ## Step 1 : Create Index File
 
-In the views folder create a file called 'index.haml', then add the following:
+In the wwwroot folder create a file called 'index.haml', then add the following:
 
 <pre><code>
   <span style='color:orange'>.container_12</span>
