@@ -1,4 +1,6 @@
-Play with haml, sass, jquery, and coffee-script with ease...
+Version: 0.9.13
+
+Quickly build web application mockups using technology you use every day.
 
 ## Installation
 

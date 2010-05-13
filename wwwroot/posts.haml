@@ -4,7 +4,14 @@
 = coffee :wolfgang
 
 #home-content.container_12  
-  .grid_7.prefix_2
+  .grid_4.prefix_2
+    %h1 Mercury
+    %ul
+      %li
+        %a{:href => '/example2'} Example
+      %li
+        %a{:href => '/launch'} Launch
+    
     %h1 Posts
     %ul
       - Dir.glob(File.join(File.dirname(__FILE__), 'posts', '*.md')).each do |d|
