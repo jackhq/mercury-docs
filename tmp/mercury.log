@@ -9196,3 +9196,47 @@ Errno::ENOENT: No such file or directory - /Users/jackhq/apps/mercury-docs/wwwro
 	from /usr/local/lib/ruby/gems/1.8/gems/mercury-1.0.2/bin/mercury:36
 	from /usr/local/bin/mercury:19:in `load'
 	from /usr/local/bin/mercury:19
+127.0.0.1 - - [28/Jun/2010 16:53:52] "GET / HTTP/1.1" 200 4437 0.6302
+127.0.0.1 - - [28/Jun/2010 16:53:52] "GET / HTTP/1.1" 200 4437 0.6680
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0404
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0419
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0009
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0026
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0007
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0025
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0006
+127.0.0.1 - - [28/Jun/2010 16:53:53] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0019
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0005
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0593
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0012
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0025
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0103
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0125
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0006
+127.0.0.1 - - [28/Jun/2010 16:53:54] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0017
+127.0.0.1 - - [28/Jun/2010 16:53:56] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 110 0.0009
+127.0.0.1 - - [28/Jun/2010 16:53:56] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 110 0.0036
+127.0.0.1 - - [28/Jun/2010 16:54:02] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 200 111 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:02] "GET /stylesheets/smoothness/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 200 111 0.0020
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 105 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 105 0.0017
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /news HTTP/1.1" 200 4272 0.2828
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /news HTTP/1.1" 200 4272 0.2841
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0042
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0004
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [28/Jun/2010 16:54:03] "GET /stylesheets/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 304 - 0.0015
